@@ -1,4 +1,4 @@
 # podcastrnext
 
 ### WebApp desenvolvido no NLW - Rocketseat.
-Utilizando Next.js, React.js, TypeScript-react e Sass.
+Utilizando Next.Js, React.Js, TypeScript-react e Sass.
